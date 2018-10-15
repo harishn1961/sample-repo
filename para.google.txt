@@ -1,0 +1,6 @@
+<html>
+<body>
+<a href="http://www.google.com">google</a>
+<a href="para.html">mywebpage</a>
+</body>
+</html>
